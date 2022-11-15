@@ -1,2 +1,4 @@
-# Portfolio.website_dev
-I develop this portfolio website using HTML, CSS. visit website
+# html-css-website
+Build a beatiful HTML/CSS website. Code for the scotch.io course.
+# My-website
+# My-website
